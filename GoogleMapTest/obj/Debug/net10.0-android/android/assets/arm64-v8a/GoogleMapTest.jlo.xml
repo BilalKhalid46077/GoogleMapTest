@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc6425a5dd3780072ee0" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="GoogleMapTest.MainActivity, GoogleMapTest">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc6425a5dd3780072ee0" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="GoogleMapTest.MainApplication, GoogleMapTest" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="GoogleMapTest" module-name="GoogleMapTest.dll">
+    <type assembly-qualified-name="GoogleMapTest.MainActivity, GoogleMapTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="googlemaptest.MainActivity" java-key="crc6425a5dd3780072ee0.MainActivity" managed-key="GoogleMapTest.MainActivity" partial-assembly-qualified-name="GoogleMapTest.MainActivity, GoogleMapTest" />
+    <type assembly-qualified-name="GoogleMapTest.MainApplication, GoogleMapTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="googlemaptest.MainApplication" java-key="crc6425a5dd3780072ee0.MainApplication" managed-key="GoogleMapTest.MainApplication" partial-assembly-qualified-name="GoogleMapTest.MainApplication, GoogleMapTest" />
+  </acw-types>
+</api>
