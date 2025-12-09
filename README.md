@@ -1,1 +1,1 @@
-Using C Sharp (C#) and .NET MAUI, create a location tracking app that saves the location of the user and displays it as a heat map. This app will track the position of the user and save it to an SQLite database so that you can visualize the result in the form of a heat map. For the map, you will use the .NET MAUI Maps component and extend its functionality to build a heat map. 
+Location Tracker Application
